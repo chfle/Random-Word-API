@@ -1,6 +1,6 @@
 ## Random Word API
 
- Free open-source word generator with mongodb, express, nodejs. 
+ Free open-source Random Word API with mongodb, express, nodejs. 
  
  
  
